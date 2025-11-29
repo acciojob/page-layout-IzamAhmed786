@@ -5,7 +5,6 @@ import './../styles/App.css';
 const App = () => {
   return (
     <div>
-        {/* Do not remove the main div */}
         <header>Welcome to my website</header>
         <p>This is the content of my web site</p>
         <footer> &copy; 2023 My Website. All rights reserved</footer>
